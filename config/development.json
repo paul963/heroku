@@ -1,0 +1,4 @@
+{
+  "jwtPrivateKey": "mongodb_jwtPrivateKeyDevelopment",
+  "mongoURIKey": "mongodb+srv://paulionascut:NwEl52h7DdbtzOVt@cluster0.fpifo.mongodb.net/CoursesDB?retryWrites=true&w=majority&appName=Cluster0"
+}
